@@ -1,0 +1,10 @@
+C:\Users\Angelo\source\repos\StudReg\StudReg\obj\Debug\StudReg.csproj.AssemblyReference.cache
+C:\Users\Angelo\source\repos\StudReg\StudReg\obj\Debug\StudReg.Properties.Resources.resources
+C:\Users\Angelo\source\repos\StudReg\StudReg\obj\Debug\StudReg.csproj.GenerateResource.cache
+C:\Users\Angelo\source\repos\StudReg\StudReg\obj\Debug\StudReg.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\source\repos\StudReg\StudReg\bin\Debug\StudReg.exe.config
+C:\Users\Angelo\source\repos\StudReg\StudReg\bin\Debug\StudReg.exe
+C:\Users\Angelo\source\repos\StudReg\StudReg\bin\Debug\StudReg.pdb
+C:\Users\Angelo\source\repos\StudReg\StudReg\obj\Debug\StudReg.frmStudentRegistration.resources
+C:\Users\Angelo\source\repos\StudReg\StudReg\obj\Debug\StudReg.exe
+C:\Users\Angelo\source\repos\StudReg\StudReg\obj\Debug\StudReg.pdb
