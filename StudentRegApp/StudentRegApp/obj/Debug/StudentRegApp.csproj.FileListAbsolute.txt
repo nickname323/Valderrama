@@ -1,0 +1,10 @@
+C:\Users\valderrama.403100\source\repos\StudentRegApp\StudentRegApp\obj\Debug\StudentRegApp.csproj.AssemblyReference.cache
+C:\Users\valderrama.403100\source\repos\StudentRegApp\StudentRegApp\obj\Debug\StudentRegApp.frmStudentRegistration.resources
+C:\Users\valderrama.403100\source\repos\StudentRegApp\StudentRegApp\obj\Debug\StudentRegApp.Properties.Resources.resources
+C:\Users\valderrama.403100\source\repos\StudentRegApp\StudentRegApp\obj\Debug\StudentRegApp.csproj.GenerateResource.cache
+C:\Users\valderrama.403100\source\repos\StudentRegApp\StudentRegApp\obj\Debug\StudentRegApp.csproj.CoreCompileInputs.cache
+C:\Users\valderrama.403100\source\repos\StudentRegApp\StudentRegApp\bin\Debug\StudentRegApp.exe.config
+C:\Users\valderrama.403100\source\repos\StudentRegApp\StudentRegApp\bin\Debug\StudentRegApp.exe
+C:\Users\valderrama.403100\source\repos\StudentRegApp\StudentRegApp\bin\Debug\StudentRegApp.pdb
+C:\Users\valderrama.403100\source\repos\StudentRegApp\StudentRegApp\obj\Debug\StudentRegApp.exe
+C:\Users\valderrama.403100\source\repos\StudentRegApp\StudentRegApp\obj\Debug\StudentRegApp.pdb
