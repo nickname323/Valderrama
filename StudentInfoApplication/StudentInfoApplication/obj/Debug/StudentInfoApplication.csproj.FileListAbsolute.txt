@@ -1,0 +1,10 @@
+C:\Users\Angelo\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.AssemblyReference.cache
+C:\Users\Angelo\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.frmStudentInfo.resources
+C:\Users\Angelo\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.Properties.Resources.resources
+C:\Users\Angelo\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.GenerateResource.cache
+C:\Users\Angelo\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\source\repos\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe.config
+C:\Users\Angelo\source\repos\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe
+C:\Users\Angelo\source\repos\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.pdb
+C:\Users\Angelo\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.exe
+C:\Users\Angelo\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.pdb
