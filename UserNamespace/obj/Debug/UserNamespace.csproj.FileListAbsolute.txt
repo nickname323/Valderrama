@@ -1,0 +1,10 @@
+C:\Users\valderrama.403100\source\repos\UserNamespace\UserNamespace\bin\Debug\UserNamespace.exe.config
+C:\Users\valderrama.403100\source\repos\UserNamespace\UserNamespace\bin\Debug\UserNamespace.exe
+C:\Users\valderrama.403100\source\repos\UserNamespace\UserNamespace\bin\Debug\UserNamespace.pdb
+C:\Users\valderrama.403100\source\repos\UserNamespace\UserNamespace\obj\Debug\UserNamespace.csproj.AssemblyReference.cache
+C:\Users\valderrama.403100\source\repos\UserNamespace\UserNamespace\obj\Debug\UserNamespace.Form1.resources
+C:\Users\valderrama.403100\source\repos\UserNamespace\UserNamespace\obj\Debug\UserNamespace.Properties.Resources.resources
+C:\Users\valderrama.403100\source\repos\UserNamespace\UserNamespace\obj\Debug\UserNamespace.csproj.GenerateResource.cache
+C:\Users\valderrama.403100\source\repos\UserNamespace\UserNamespace\obj\Debug\UserNamespace.csproj.CoreCompileInputs.cache
+C:\Users\valderrama.403100\source\repos\UserNamespace\UserNamespace\obj\Debug\UserNamespace.exe
+C:\Users\valderrama.403100\source\repos\UserNamespace\UserNamespace\obj\Debug\UserNamespace.pdb
