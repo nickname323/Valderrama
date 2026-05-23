@@ -9,7 +9,9 @@ namespace ItemNamespace
         protected int total_price;
         protected int quantity;
 
-        public Item(string name, double price, int quantity)
+        public Item(string name,
+                    double price,
+                    int quantity)
         {
             item_name = name;
             item_price = price;

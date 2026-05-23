@@ -1,0 +1,11 @@
+C:\Users\Angelo\source\repos\ItemNamespace\ItemNamespace\obj\Debug\UserAccountNamespace.csproj.AssemblyReference.cache
+C:\Users\Angelo\source\repos\ItemNamespace\ItemNamespace\obj\Debug\CashierApplication.frmLoginAccount.resources
+C:\Users\Angelo\source\repos\ItemNamespace\ItemNamespace\obj\Debug\CashierApplication.frmPurchaseDiscountedItem.resources
+C:\Users\Angelo\source\repos\ItemNamespace\ItemNamespace\obj\Debug\ItemNamespace.Properties.Resources.resources
+C:\Users\Angelo\source\repos\ItemNamespace\ItemNamespace\obj\Debug\UserAccountNamespace.csproj.GenerateResource.cache
+C:\Users\Angelo\source\repos\ItemNamespace\ItemNamespace\obj\Debug\UserAccountNamespace.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\source\repos\ItemNamespace\ItemNamespace\obj\Debug\ItemNamespace.exe
+C:\Users\Angelo\source\repos\ItemNamespace\ItemNamespace\obj\Debug\ItemNamespace.pdb
+C:\Users\Angelo\source\repos\ItemNamespace\ItemNamespace\bin\Debug\ItemNamespace.exe.config
+C:\Users\Angelo\source\repos\ItemNamespace\ItemNamespace\bin\Debug\ItemNamespace.exe
+C:\Users\Angelo\source\repos\ItemNamespace\ItemNamespace\bin\Debug\ItemNamespace.pdb

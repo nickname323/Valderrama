@@ -9,14 +9,19 @@ namespace ItemNamespace
         private double payment_amount;
         private double change;
 
-        public DiscountedItem(string name, double price, int quantity, double discount)
+        public DiscountedItem(string name,
+                              double price,
+                              int quantity,
+                              double discount)
             : base(name, price, quantity)
         {
             item_discount = discount * 0.01;
 
-            double discountValue = item_discount * item_price;
+            double discountValue =
+                item_discount * item_price;
 
-            discounted_price = item_price - discountValue;
+            discounted_price =
+                item_price - discountValue;
         }
 
         public override double getTotalPrice()
@@ -28,7 +33,8 @@ namespace ItemNamespace
         {
             payment_amount = amount;
 
-            change = payment_amount - getTotalPrice();
+            change = payment_amount -
+                     getTotalPrice();
         }
 
         public double getChange()
