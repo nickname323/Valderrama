@@ -1,0 +1,10 @@
+C:\Users\Angelo\source\repos\EmployeeAplication\EmployeeAplication\bin\Debug\EmployeeAplication.exe.config
+C:\Users\Angelo\source\repos\EmployeeAplication\EmployeeAplication\bin\Debug\EmployeeAplication.exe
+C:\Users\Angelo\source\repos\EmployeeAplication\EmployeeAplication\bin\Debug\EmployeeAplication.pdb
+C:\Users\Angelo\source\repos\EmployeeAplication\EmployeeAplication\obj\Debug\EmployeeAplication.csproj.AssemblyReference.cache
+C:\Users\Angelo\source\repos\EmployeeAplication\EmployeeAplication\obj\Debug\EmployeeAplication.frmComputeSalary.resources
+C:\Users\Angelo\source\repos\EmployeeAplication\EmployeeAplication\obj\Debug\EmployeeAplication.Properties.Resources.resources
+C:\Users\Angelo\source\repos\EmployeeAplication\EmployeeAplication\obj\Debug\EmployeeAplication.csproj.GenerateResource.cache
+C:\Users\Angelo\source\repos\EmployeeAplication\EmployeeAplication\obj\Debug\EmployeeAplication.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\source\repos\EmployeeAplication\EmployeeAplication\obj\Debug\EmployeeAplication.exe
+C:\Users\Angelo\source\repos\EmployeeAplication\EmployeeAplication\obj\Debug\EmployeeAplication.pdb
