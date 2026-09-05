@@ -1,0 +1,17 @@
+C:\Users\valderrama.403100\source\repos\Account_Registration\obj\Debug\net10.0-windows\Account_Registration.FrmConfirm.resources
+C:\Users\valderrama.403100\source\repos\Account_Registration\obj\Debug\net10.0-windows\Account_Registration.FrmRegistration.resources
+C:\Users\valderrama.403100\source\repos\Account_Registration\obj\Debug\net10.0-windows\Account_Registration.csproj.GenerateResource.cache
+C:\Users\valderrama.403100\source\repos\Account_Registration\obj\Debug\net10.0-windows\Account_Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valderrama.403100\source\repos\Account_Registration\obj\Debug\net10.0-windows\Account_Registration.AssemblyInfoInputs.cache
+C:\Users\valderrama.403100\source\repos\Account_Registration\obj\Debug\net10.0-windows\Account_Registration.AssemblyInfo.cs
+C:\Users\valderrama.403100\source\repos\Account_Registration\obj\Debug\net10.0-windows\Account_Registration.csproj.CoreCompileInputs.cache
+C:\Users\valderrama.403100\source\repos\Account_Registration\bin\Debug\net10.0-windows\Account_Registration.exe
+C:\Users\valderrama.403100\source\repos\Account_Registration\bin\Debug\net10.0-windows\Account_Registration.deps.json
+C:\Users\valderrama.403100\source\repos\Account_Registration\bin\Debug\net10.0-windows\Account_Registration.runtimeconfig.json
+C:\Users\valderrama.403100\source\repos\Account_Registration\bin\Debug\net10.0-windows\Account_Registration.dll
+C:\Users\valderrama.403100\source\repos\Account_Registration\bin\Debug\net10.0-windows\Account_Registration.pdb
+C:\Users\valderrama.403100\source\repos\Account_Registration\obj\Debug\net10.0-windows\Account_Registration.dll
+C:\Users\valderrama.403100\source\repos\Account_Registration\obj\Debug\net10.0-windows\refint\Account_Registration.dll
+C:\Users\valderrama.403100\source\repos\Account_Registration\obj\Debug\net10.0-windows\Account_Registration.pdb
+C:\Users\valderrama.403100\source\repos\Account_Registration\obj\Debug\net10.0-windows\Account_Registration.genruntimeconfig.cache
+C:\Users\valderrama.403100\source\repos\Account_Registration\obj\Debug\net10.0-windows\ref\Account_Registration.dll
