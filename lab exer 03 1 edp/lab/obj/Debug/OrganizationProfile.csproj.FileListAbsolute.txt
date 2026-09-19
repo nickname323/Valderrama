@@ -1,0 +1,7 @@
+C:\Users\valderrama.403100\Downloads\OrganizationProfile_Ready_NET48_OLDSTYLE\bin\Debug\OrganizationProfile.exe.config
+C:\Users\valderrama.403100\Downloads\OrganizationProfile_Ready_NET48_OLDSTYLE\bin\Debug\OrganizationProfile.exe
+C:\Users\valderrama.403100\Downloads\OrganizationProfile_Ready_NET48_OLDSTYLE\bin\Debug\OrganizationProfile.pdb
+C:\Users\valderrama.403100\Downloads\OrganizationProfile_Ready_NET48_OLDSTYLE\obj\Debug\OrganizationProfile.csproj.AssemblyReference.cache
+C:\Users\valderrama.403100\Downloads\OrganizationProfile_Ready_NET48_OLDSTYLE\obj\Debug\OrganizationProfile.csproj.CoreCompileInputs.cache
+C:\Users\valderrama.403100\Downloads\OrganizationProfile_Ready_NET48_OLDSTYLE\obj\Debug\OrganizationProfile.exe
+C:\Users\valderrama.403100\Downloads\OrganizationProfile_Ready_NET48_OLDSTYLE\obj\Debug\OrganizationProfile.pdb
