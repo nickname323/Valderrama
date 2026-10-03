@@ -1,0 +1,12 @@
+C:\Users\valderrama.403100\Downloads\ThreadPrio(3)\ThreadPrio\obj\Debug\net48\ThreadPrio.csproj.AssemblyReference.cache
+C:\Users\valderrama.403100\Downloads\ThreadPrio(3)\ThreadPrio\obj\Debug\net48\ThreadPrio.frmTrackThread.resources
+C:\Users\valderrama.403100\Downloads\ThreadPrio(3)\ThreadPrio\obj\Debug\net48\ThreadPrio.csproj.GenerateResource.cache
+C:\Users\valderrama.403100\Downloads\ThreadPrio(3)\ThreadPrio\obj\Debug\net48\ThreadPrio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valderrama.403100\Downloads\ThreadPrio(3)\ThreadPrio\obj\Debug\net48\ThreadPrio.AssemblyInfoInputs.cache
+C:\Users\valderrama.403100\Downloads\ThreadPrio(3)\ThreadPrio\obj\Debug\net48\ThreadPrio.AssemblyInfo.cs
+C:\Users\valderrama.403100\Downloads\ThreadPrio(3)\ThreadPrio\obj\Debug\net48\ThreadPrio.csproj.CoreCompileInputs.cache
+C:\Users\valderrama.403100\Downloads\ThreadPrio(3)\ThreadPrio\bin\Debug\net48\ThreadPrio.exe.config
+C:\Users\valderrama.403100\Downloads\ThreadPrio(3)\ThreadPrio\bin\Debug\net48\ThreadPrio.exe
+C:\Users\valderrama.403100\Downloads\ThreadPrio(3)\ThreadPrio\bin\Debug\net48\ThreadPrio.pdb
+C:\Users\valderrama.403100\Downloads\ThreadPrio(3)\ThreadPrio\obj\Debug\net48\ThreadPrio.exe
+C:\Users\valderrama.403100\Downloads\ThreadPrio(3)\ThreadPrio\obj\Debug\net48\ThreadPrio.pdb
