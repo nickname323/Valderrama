@@ -1,0 +1,12 @@
+C:\Users\valderrama.403100\Downloads\basic_thread(2)\basic thread\BasicThreading\BasicThreading\obj\Debug\net48\BasicThreading.csproj.AssemblyReference.cache
+C:\Users\valderrama.403100\Downloads\basic_thread(2)\basic thread\BasicThreading\BasicThreading\obj\Debug\net48\BasicThreading.FrmBasicThread.resources
+C:\Users\valderrama.403100\Downloads\basic_thread(2)\basic thread\BasicThreading\BasicThreading\obj\Debug\net48\BasicThreading.csproj.GenerateResource.cache
+C:\Users\valderrama.403100\Downloads\basic_thread(2)\basic thread\BasicThreading\BasicThreading\obj\Debug\net48\BasicThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valderrama.403100\Downloads\basic_thread(2)\basic thread\BasicThreading\BasicThreading\obj\Debug\net48\BasicThreading.AssemblyInfoInputs.cache
+C:\Users\valderrama.403100\Downloads\basic_thread(2)\basic thread\BasicThreading\BasicThreading\obj\Debug\net48\BasicThreading.AssemblyInfo.cs
+C:\Users\valderrama.403100\Downloads\basic_thread(2)\basic thread\BasicThreading\BasicThreading\obj\Debug\net48\BasicThreading.csproj.CoreCompileInputs.cache
+C:\Users\valderrama.403100\Downloads\basic_thread(2)\basic thread\BasicThreading\BasicThreading\bin\Debug\net48\BasicThreading.exe.config
+C:\Users\valderrama.403100\Downloads\basic_thread(2)\basic thread\BasicThreading\BasicThreading\bin\Debug\net48\BasicThreading.exe
+C:\Users\valderrama.403100\Downloads\basic_thread(2)\basic thread\BasicThreading\BasicThreading\bin\Debug\net48\BasicThreading.pdb
+C:\Users\valderrama.403100\Downloads\basic_thread(2)\basic thread\BasicThreading\BasicThreading\obj\Debug\net48\BasicThreading.exe
+C:\Users\valderrama.403100\Downloads\basic_thread(2)\basic thread\BasicThreading\BasicThreading\obj\Debug\net48\BasicThreading.pdb
