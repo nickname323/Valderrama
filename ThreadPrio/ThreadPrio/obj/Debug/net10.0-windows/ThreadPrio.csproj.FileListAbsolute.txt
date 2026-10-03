@@ -1,0 +1,16 @@
+C:\Users\Angelo\source\repos\ThreadPrio\bin\Debug\net10.0-windows\ThreadPrio.exe
+C:\Users\Angelo\source\repos\ThreadPrio\bin\Debug\net10.0-windows\ThreadPrio.deps.json
+C:\Users\Angelo\source\repos\ThreadPrio\bin\Debug\net10.0-windows\ThreadPrio.runtimeconfig.json
+C:\Users\Angelo\source\repos\ThreadPrio\bin\Debug\net10.0-windows\ThreadPrio.dll
+C:\Users\Angelo\source\repos\ThreadPrio\bin\Debug\net10.0-windows\ThreadPrio.pdb
+C:\Users\Angelo\source\repos\ThreadPrio\obj\Debug\net10.0-windows\ThreadPrio.frmTrackThread.resources
+C:\Users\Angelo\source\repos\ThreadPrio\obj\Debug\net10.0-windows\ThreadPrio.csproj.GenerateResource.cache
+C:\Users\Angelo\source\repos\ThreadPrio\obj\Debug\net10.0-windows\ThreadPrio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\source\repos\ThreadPrio\obj\Debug\net10.0-windows\ThreadPrio.AssemblyInfoInputs.cache
+C:\Users\Angelo\source\repos\ThreadPrio\obj\Debug\net10.0-windows\ThreadPrio.AssemblyInfo.cs
+C:\Users\Angelo\source\repos\ThreadPrio\obj\Debug\net10.0-windows\ThreadPrio.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\source\repos\ThreadPrio\obj\Debug\net10.0-windows\ThreadPrio.dll
+C:\Users\Angelo\source\repos\ThreadPrio\obj\Debug\net10.0-windows\refint\ThreadPrio.dll
+C:\Users\Angelo\source\repos\ThreadPrio\obj\Debug\net10.0-windows\ThreadPrio.pdb
+C:\Users\Angelo\source\repos\ThreadPrio\obj\Debug\net10.0-windows\ThreadPrio.genruntimeconfig.cache
+C:\Users\Angelo\source\repos\ThreadPrio\obj\Debug\net10.0-windows\ref\ThreadPrio.dll
