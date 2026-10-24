@@ -1,0 +1,11 @@
+C:\Users\valderrama.403100\Downloads\wer\LabStream\LabStream\bin\Debug\LabStream.exe
+C:\Users\valderrama.403100\Downloads\wer\LabStream\LabStream\bin\Debug\LabStream.pdb
+C:\Users\valderrama.403100\Downloads\wer\LabStream\LabStream\obj\Debug\LabStream.csproj.AssemblyReference.cache
+C:\Users\valderrama.403100\Downloads\wer\LabStream\LabStream\obj\Debug\LabStream.FrmLab1.resources
+C:\Users\valderrama.403100\Downloads\wer\LabStream\LabStream\obj\Debug\LabStream.FrmFileName.resources
+C:\Users\valderrama.403100\Downloads\wer\LabStream\LabStream\obj\Debug\LabStream.FrmRegistration.resources
+C:\Users\valderrama.403100\Downloads\wer\LabStream\LabStream\obj\Debug\LabStream.csproj.GenerateResource.cache
+C:\Users\valderrama.403100\Downloads\wer\LabStream\LabStream\obj\Debug\LabStream.csproj.CoreCompileInputs.cache
+C:\Users\valderrama.403100\Downloads\wer\LabStream\LabStream\obj\Debug\LabStream.exe
+C:\Users\valderrama.403100\Downloads\wer\LabStream\LabStream\obj\Debug\LabStream.pdb
+C:\Users\valderrama.403100\Downloads\wer\LabStream\LabStream\obj\Debug\LabStream.FrmOpenTextFile.resources
